@@ -1,4 +1,4 @@
-# flutter_application_1
+# Flutter Authentication
 
 A new Flutter project.
 
