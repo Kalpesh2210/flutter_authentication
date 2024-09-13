@@ -1,7 +1,7 @@
 # Flutter Authentication
 
-A new Flutter project.
-
+This is flutter project. In this project describe authentication where it has RegisterScreen for first time enter in app, LoginScreen for after RegisterScreen,it also have ChangePassword
+and ForgotPassword after login go to HomeScreen if details is valid, i am use shared-prefrences in this project for user data store.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
